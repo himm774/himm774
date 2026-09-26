@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**himm774/himm774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on projects
+- 🌱 I’m currently learning Bash and Python
+- 👯 I’m looking to collaborate on repositorys
+- 🤔 I’m looking for help with Python tutorials
+- 💬 Ask me about anything
+- 📫 How to reach me: [Discord](https://discord.com/users/1552999829741903943)
+- 😄 Pronouns: he/him/his/they/them
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![OS](https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square)
+![OS](https://img.shields.io/badge/OS-Android%2015-green?style=flat-square&logo=android)
+![OS](https://img.shields.io/badge/OS-Arch%20Linux%20(Windows%20Subsystem%20for%20Linux)-blue?style=flat-square&logo=arch%20linux)
