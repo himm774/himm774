@@ -11,3 +11,5 @@
 ![OS](https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square)
 ![OS](https://img.shields.io/badge/OS-Android%2015-green?style=flat-square&logo=android)
 ![OS](https://img.shields.io/badge/OS-Arch%20Linux%20(Windows%20Subsystem%20for%20Linux)-blue?style=flat-square&logo=arch%20linux)
+
+<img src="https://count.getloli.com/@himm774?name=himm774&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="himm774">
